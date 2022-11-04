@@ -1,13 +1,13 @@
 {
-  "name": "vscode-mindmap",
-  "displayName": "vscode-mindmap",
+  "name": "mindmap",
+  "displayName": "思维导图",
   "icon": "resources/icon.png",
-  "description": "mindmap for vscode",
-  "version": "0.0.16",
-  "publisher": "eightHundreds",
+  "description": "思维导图",
+  "version": "1.0.0",
+  "publisher": "ShermanCx",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eightHundreds/vscode-mindmap.git"
+    "url": "https://github.com/ShermanCx/mindmap"
   },
   "engines": {
     "vscode": "^1.8.0"
